@@ -1,6 +1,5 @@
 ## End-to-end Image Search engine
-
-This is the end-to-end implementation of image search engine. The image search engines allow us to retrive similar images based on the query one.
+The image search engines allow us to retrive similar images based on the query one.
 
 
 ## Project Instructions
