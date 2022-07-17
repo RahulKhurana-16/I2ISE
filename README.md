@@ -8,7 +8,7 @@ The image search engines allow us to retrive similar images based on the query o
 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
-git clone [https://github.com/RahulKhurana-16/I2ISE.git](https://github.com/RahulKhurana-16/I2ISE/)
+git clone https://github.com/RahulKhurana-16/I2ISE.git
 ```
 
 2. Install TensorFlow.
